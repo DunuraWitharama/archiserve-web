@@ -1,0 +1,12 @@
+.dark{
+    background:#111;
+    color:white;
+}
+
+.dark .navbar{
+    background:#1b1b1b;
+}
+
+.dark .service-card{
+    background:#222;
+}

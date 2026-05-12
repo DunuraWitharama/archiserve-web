@@ -1,0 +1,16 @@
+@media(max-width:900px){
+
+    .hero-content h1{
+        font-size:40px;
+    }
+
+    .service-grid,
+    .project-grid{
+        grid-template-columns:1fr;
+    }
+
+    .navbar{
+        flex-direction:column;
+    }
+
+}
